@@ -4,6 +4,7 @@
     "website_url": "https://github.com/thunderstore-io",
     "description": "This is a description for a mod. 250 characters max",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2105"
+        "denikson-BepInExPack_Valheim-5.4.2105",
+        "CW_Jesse-BetterNetworking_Valheim-2.3.1"
     ]
 }
