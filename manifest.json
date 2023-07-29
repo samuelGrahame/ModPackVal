@@ -5,6 +5,7 @@
     "description": "Default Paps Mod List",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2105",
-        "CW_Jesse-BetterNetworking_Valheim-2.3.1"
+        "CW_Jesse-BetterNetworking_Valheim-2.3.1",
+        "blacks7ar-VikingsDoSwim-1.2.2"
     ]
 }
